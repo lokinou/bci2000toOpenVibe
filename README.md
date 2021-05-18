@@ -1,6 +1,6 @@
 Converting BCI2000 SMR scenario for OpenVibe classification
 
-Since *BCI2000 import box in OpenVibe currently does not work* let\'s see a workaround
+Since *BCI2000 import box in OpenVibe currently does not work* and that you can't wait to try Riemannian geometry classification while stuck in year 2000, here is a workaround.
 
 ## Convert BCI2000 files to BrainVision to OpenVibe
 
