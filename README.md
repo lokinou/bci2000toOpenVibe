@@ -2,7 +2,7 @@ Converting BCI2000 SMR scenario for OpenVibe classification
 
 Since *BCI2000 import box in OpenVibe currently does not work* let\'s see a workaround
 
-## Convert BCI2000 files to BrainVision format
+## Convert BCI2000 files to BrainVision to OpenVibe
 
 ### Solution for experts: the Matlab way
 
