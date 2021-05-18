@@ -4,13 +4,13 @@ Since *BCI2000 import box in OpenVibe currently does not work* let\'s see a work
 
 ## Convert BCI2000 files to BrainVision format
 
-### Scripted way
+### Solution for experts: the Matlab way
 
 You need for this Matlab and EEGLab installed, and edit the file at [convert_BCI2000_to_OpenVibe.m](matlab_convert/convert_BCI2000_to_OpenVibe.m). It is planned for 4 classes stimulus presentation.
 
 Place your `<filename>.dat` files into `matlab_convert/to_convert` and it should output in `matlab_convert/converted`
 
-### Manually
+### easy solution: proceed manually
 
 Yes, the .vhdr .mrk .eeg format properly save the markers that we need for our analysis.
 All you need is the latest version of BCI2000, EEGLab and OpenVibe
